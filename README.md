@@ -17,4 +17,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prince02765&show_icons=true&locale=en" alt="prince02765" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prince02765&label=Profile%20views&color=0e75b6&style=flat" alt="prince02765" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=prince02765&label=Profile%20views&color=0e75b6&style=flat" alt="prince02765" /> </p> -->
