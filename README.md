@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Prince Patel</h1>
+<h1 align="center">Hola 👋, I'm Prince Patel</h1>
 <h3 align="center">A passionate Android developer from India.</h3>
 
 
