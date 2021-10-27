@@ -2,8 +2,9 @@
 <h3 align="center">A passionate Android developer from India.</h3>
 
 
-
-- 📫 How to reach me via **princepatel221350@gmail.com**
+- 🔭 I’m currently working on Android Apps.
+- 🌱 I’m currently learning Flutter.
+- 📫 Reach me on [Twitter](https://twitter.com/Prince_02765)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
