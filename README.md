@@ -1,8 +1,5 @@
 <h1 align="center">Hola 👋, I'm Prince Patel</h1>
-<h3 align="center">A passionate Android developer from India.</h3>
 
-
-- 🔭 I’m currently working on Android Apps.
 - 🌱 I’m currently learning Flutter.
 - 📫 Reach me on [Twitter](https://twitter.com/Prince_02765)
 
