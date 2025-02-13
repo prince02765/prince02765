@@ -1,5 +1,7 @@
 <h1 align="center">Hola 👋, I'm Prince Patel</h1>
 
+Welcome to my GitHub profile! I'm a graduate student passionate about building mobile applications and open-source contributions.
+
 - 🌱 I’m currently learning Flutter.
 - 📫 Reach me on [Twitter](https://twitter.com/Prince_02765)
 
