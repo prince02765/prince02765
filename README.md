@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm a graduate student passionate about building mobile applications and open-source contributions.
 
 - 🌱 I’m currently learning Flutter.
-- 📫 Reach me on [Twitter](https://twitter.com/Prince_02765)
+- 📫 Reach me on [X](https://twitter.com/Prince_02765)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
